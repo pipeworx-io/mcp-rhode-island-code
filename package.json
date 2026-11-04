@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-rhode-island-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Rhode Island General Laws — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "rhode-island-code",
     "gatewaySlug": "rhode-island-code",
-    "sourceHash": "v1-7cc936a00f4deda9045849a1f98fd82b447951019ea0c9f95f7430291fb84441",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-56d03bf60d6991e5a7a4e1c5018305301d57818c9c4f95bc0babab89af2e4ed6",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
